@@ -60,10 +60,10 @@ padding: 12px;
 }
 
 .menu__profile {
-padding: 4px;
-width: 40px;
-height: 40px;
-position: relative;
+    padding: 4px;
+    width: 40px;
+    height: 40px;
+    position: relative;
 
 }
 
@@ -74,7 +74,7 @@ position: relative;
     
 }
 
-.menu__avartar--frame {
+.menu__avatar--frame {
     position: absolute;
     top: 0;
     left: 0;
